@@ -1,4 +1,8 @@
-automated SCA, SAST, and DAST scanning of a GraphQL application!
+GitHub Actions workflows
+Dependabot software composition analysis (SCA)
+CodeQL static application security testing (SAST) scanning
+StackHawk dynamic application security test (DAST) scanning
+
 Go deeper with HawkScan to tune it for your application.
 [Here](https://app.stackhawk.com/scans/93dbbf9f-022b-4717-8a21-242d445766eb)
 
