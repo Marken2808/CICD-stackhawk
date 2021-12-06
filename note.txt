@@ -1,7 +1,11 @@
 automated SCA, SAST, and DAST scanning of a GraphQL application!
 Go deeper with HawkScan to tune it for your application.
+[Here](https://app.stackhawk.com/scans/93dbbf9f-022b-4717-8a21-242d445766eb)
 
 GraphQL Configuration - Details on how to tune your GraphQL scan.
 Authenticated Scanning - Guides for authenticating HawkScan to your application for deeper scans.
 Continuous Integration, where you can see our guides for integrating HawkScan with the most popular CI/CD systems.
 StackHawk Blog, with technical tips, tricks, and walkthroughs to help you secure and test your applications.
+
+
+Need Jira account to be assigned tasks
